@@ -72,7 +72,7 @@
 	params.jquery = params.jquery || "1";
 	loadScript( jQueries[ params.jquery ] || "https://ajax.googleapis.com/ajax/libs/jquery/" + params.jquery + "/jquery.min.js" );
 	loadScript( "../src/jquery.jsonp.js" );
-	loadScript( "qunit/qunit/qunit.js" );
+	loadScript( "qunit/qunit.js" );
 	loadScript( "./unit.js" );
 
 })();
