@@ -39,7 +39,7 @@
 		STR_INSERT_BEFORE = "insertBefore",
 		STR_JQUERY_JSONP = "_jqjsp",
 		STR_ON_CLICK = "onclick",
-		STR_ON_ERROR = "on" + STR_ERROR,
+		STR_ON_ERROR = "onerror",
 		STR_ON_LOAD = "onload",
 		STR_ON_READY_STATE_CHANGE = "onreadystatechange",
 		STR_READY_STATE = "readyState",
